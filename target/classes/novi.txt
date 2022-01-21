@@ -1,0 +1,2 @@
+Ovdje se nalazi neki tekst.
+Taj tekst treba da bude prebacen u drugi fajl.
