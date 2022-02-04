@@ -1,9 +1,10 @@
 package four.person;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 import java.time.Period;
 
-public class Person {
+public class Person implements Serializable {
     private String name;
     private String surname;
     private LocalDate birthday;
